@@ -1,1 +1,1 @@
-ws://localhost:8888/websocket
+wss://localhost:8888/websocket
