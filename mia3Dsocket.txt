@@ -1,1 +1,1 @@
-wss://4a6b36d8.ngrok.io
+wss://4a6b36d8.ngrok.io/websocket
