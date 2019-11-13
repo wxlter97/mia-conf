@@ -1,1 +1,1 @@
-wss://echo.websocket.org
+wss://123afd88.ngrok.io/websocket
